@@ -1,0 +1,49 @@
+{
+  "name": "Peoplesoft Integration Broker Tuning for Volume and Performance",
+  "description": "HEUG",
+  "validators": {
+    "puppet": "puppet parser validate",
+    "ruby": "ruby -c"
+  },
+  "encoding": "ISO-8859-1",
+  "feedback": true,
+  "highlight": "solarized_dark",
+  "author": "Eric Bolinger",
+  "authtitle": "Senior PeopleSoft Systems Administrator",
+  "authemail": "eric.bolinger@cu.edu",
+  "organization": "University of Colorado",
+  "title": "PeopleSoft Deployment Automation",
+  "tagline": "using DPK, Puppet and Ansible",
+  "sesnum":  "3610",
+  "templates" : {
+      "default" : "cu.tpl",
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+	"sections": [
+		"introduction/title.md",
+		"introduction/demographics.md",
+		"introduction/prd_hardware.md",
+
+		"content/introduction/decisions.md",
+
+		"content/infrastructure/1.md",
+
+		"content/versioncontrol/1.md",
+
+		"content/configmgmt/1.md",
+		"content/configmgmt/virusscan.md",
+		"content/configmgmt/duoweb.md",
+		"content/configmgmt/automic.md",
+		"content/configmgmt/cobol.md",
+
+		"content/orchestration/1.md",
+
+		"content/selfservice/1.md",
+
+		"content/conclusion/1.md",
+
+		"conclusion/questions.md",
+		"conclusion/appendix.md"
+	]
+}

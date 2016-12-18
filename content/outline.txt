@@ -1,0 +1,100 @@
+
+Structure??
+
+Each Slide:
+ Step 1: local install
+ Step 2: (advanced) extend to puppet master (extend in generall from delivered)
+
+Audience Poll
+  Have deployed DPK locally per docs
+  Using DPK installs in production
+  Using a separate puppet master
+  Have ported Oracle code to other platform (Chef)
+  Any orchestration tool (ansible, mcollective, etc)
+
+infrastructure
+  DEV region on single servers
+  Production Separated out per function
+  Keep them small
+  Horizontal scaling
+
+software 
+  RHEL 7 
+  PT 8.55
+  Puppet
+  Ansible
+
+=Configuration Management=
+DPK Overview
+  Based on open source puppet
+  Installs basic PeopleSoft components
+  Not the extent of what developers need
+
+roles
+  all (web, app, prcs) (midtier)
+  wapp
+  appbatch
+  app
+  prcs
+  pia (web)
+
+Delivered Patterns
+  PeopleSoft
+  Middleware
+  Domains
+  Hiera
+
+Custom Patterns
+  Server Base
+  third party installs
+  custom development
+  Hiera - more complexity
+
+Examples of Delivered Patterns:
+  WebLogic (psadmin.io)
+  Hash Merge
+
+Examples of Modules
+  Automic
+  DuoWeb
+  ps_virusscan
+
+=Orchestration=
+Ansible
+  Admin Server (bastion host) pattern
+  Anything that compels you to connect to a server
+
+Inventory
+  Will build from puppet DB
+
+Stuff
+  rolling restarts
+  stop/start
+  Compile Cobol
+  Run puppet tags
+  Check status
+  Make mass changes (that should be puppeted)
+
+=Self Service=
+
+Self Service
+  Tie in to UC4
+  Tie in to Phire
+
+Presenting logs and code by separate server
+  autofs/sshfs
+
+
+Hiera (extend hierarchy)
+
+
+Link Puppet self training
+
+
+Major Sections
+  Introduction
+  Infrastructure
+  Configuration Management (Puppet)
+  Orchestration (Ansible)
+  Self Service (UC4, Phire)
+  Version Control (git, Phire)

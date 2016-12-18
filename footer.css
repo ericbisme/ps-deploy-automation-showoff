@@ -1,0 +1,13 @@
+.cu_footer {
+  display: inline-block;
+  position: absolute;
+  width: 100%;
+  left: 5px;
+  bottom: 5px;
+  border-top:2px solid black;
+  padding-top: 5px;
+  background: url(./_images/cu-web-banner_white.jpg) no-repeat;
+  content: "";
+  height: 90px;
+  margin: 0px;
+}
