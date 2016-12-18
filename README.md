@@ -1,2 +1,2 @@
-# ps-deploy-automation-showoff
-PeopleSoft Deployment Automation using DPK, Puppet and Ansible - Showoff Presentation
+# PeopleSoft Deployment Automation using DPK, Puppet and Ansible
+A showoff presentation for Eric to Give at conferences
