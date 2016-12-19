@@ -27,8 +27,6 @@
 
 		"content/introduction/decisions.md",
 
-		"content/infrastructure/1.md",
-
 		"content/versioncontrol/1.md",
 
 		"content/configmgmt/1.md",
@@ -38,6 +36,7 @@
 		"content/configmgmt/cobol.md",
 
 		"content/orchestration/1.md",
+		"content/orchestration/rolling_restart.md",
 
 		"content/selfservice/1.md",
 

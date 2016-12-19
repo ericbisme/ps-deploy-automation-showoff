@@ -3,7 +3,7 @@ Structure??
 
 Each Slide:
  Step 1: local install
- Step 2: (advanced) extend to puppet master (extend in generall from delivered)
+ Step 2: (advanced) extend to puppet master (extend in general from delivered)
 
 Audience Poll
   Have deployed DPK locally per docs
@@ -70,7 +70,7 @@ Inventory
 Stuff
   rolling restarts
   stop/start
-  Compile Cobol
+  Compile COBOL
   Run puppet tags
   Check status
   Make mass changes (that should be puppeted)
