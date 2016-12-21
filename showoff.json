@@ -7,7 +7,7 @@
   },
   "encoding": "ISO-8859-1",
   "feedback": true,
-  "highlight": "solarized_dark",
+  "highlight": "atelier-cave.light",
   "author": "Eric Bolinger",
   "authtitle": "Senior PeopleSoft Systems Administrator",
   "authemail": "eric.bolinger@cu.edu",
@@ -25,6 +25,8 @@
 		"introduction/demographics.md",
 		"introduction/prd_hardware.md",
 
+		"content/introduction/overview.md",
+		"content/introduction/poll.md",
 		"content/introduction/decisions.md",
 
 		"content/versioncontrol/1.md",
