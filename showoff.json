@@ -36,6 +36,7 @@
 		"content/configmgmt/duoweb.md",
 		"content/configmgmt/automic.md",
 		"content/configmgmt/cobol.md",
+		"content/configmgmt/2.md",
 
 		"content/orchestration/1.md",
 		"content/orchestration/rolling_restart.md",
