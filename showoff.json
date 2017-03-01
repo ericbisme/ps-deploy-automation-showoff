@@ -7,7 +7,7 @@
   },
   "encoding": "ISO-8859-1",
   "feedback": true,
-  "highlight": "atelier-cave.light",
+  "highlight": "solarized_dark",
   "author": "Eric Bolinger",
   "authtitle": "Senior PeopleSoft Systems Administrator",
   "authemail": "eric.bolinger@cu.edu",
@@ -24,6 +24,7 @@
 		"introduction/title.md",
 		"introduction/demographics.md",
 		"introduction/prd_hardware.md",
+		"introduction/footprint.md",
 
 		"content/introduction/overview.md",
 		"content/introduction/poll.md",
@@ -32,10 +33,10 @@
 		"content/versioncontrol/1.md",
 
 		"content/configmgmt/1.md",
-		"content/configmgmt/virusscan.md",
 		"content/configmgmt/duoweb.md",
-		"content/configmgmt/automic.md",
+		"content/configmgmt/virusscan.md",
 		"content/configmgmt/erpfirewall.md",
+		"content/configmgmt/automic.md",
 		"content/configmgmt/2.md",
 
 		"content/orchestration/1.md",
