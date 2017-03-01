@@ -2,6 +2,6 @@
 <!SLIDE subsection>
 # Overview
 * Version Control Systems
-* Configuration Management
+* Configuration Management using Puppet
 * Orchestration
 * Automated Testing
