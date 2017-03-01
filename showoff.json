@@ -26,9 +26,9 @@
 		"introduction/prd_hardware.md",
 		"introduction/footprint.md",
 
-		"content/introduction/overview.md",
-		"content/introduction/poll.md",
 		"content/introduction/decisions.md",
+		"content/introduction/poll.md",
+		"content/introduction/overview.md",
 
 		"content/versioncontrol/1.md",
 

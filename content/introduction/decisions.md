@@ -2,6 +2,7 @@
 #Design Decisions
 * RHEL 7
 * VMWare VMs
+* No Service Discovery
 * Minimal NFS dependency
 * Run a Puppet Master
 * DEV region instances installed to single server
