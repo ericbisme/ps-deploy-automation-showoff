@@ -1,5 +1,5 @@
 {
-  "name": "Peoplesoft Integration Broker Tuning for Volume and Performance",
+  "name": "PeopleSoft Deployment Automation using DPK, Puppet and Ansible",
   "description": "HEUG",
   "validators": {
     "puppet": "puppet parser validate",
@@ -35,7 +35,7 @@
 		"content/configmgmt/virusscan.md",
 		"content/configmgmt/duoweb.md",
 		"content/configmgmt/automic.md",
-		"content/configmgmt/cobol.md",
+		"content/configmgmt/erpfirewall.md",
 		"content/configmgmt/2.md",
 
 		"content/orchestration/1.md",

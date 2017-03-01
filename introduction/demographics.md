@@ -9,6 +9,6 @@
 <!SLIDE >
 # Infrastructure Demographics
 * 2 datacenters
-* number of staff in University Information Systems
-* number of total nodes
-* number of PeopleSoft nodes
+* ~120 UIS Staff
+* ~1000 nodes total
+* ~100 nodes for PeopleSoft
