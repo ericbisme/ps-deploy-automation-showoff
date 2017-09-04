@@ -13,7 +13,7 @@
   "authemail": "eric.bolinger@cu.edu",
   "organization": "University of Colorado",
   "title": "PeopleSoft Deployment Automation",
-  "tagline": "using DPK, Puppet and Ansible",
+  "tagline": "Integrate DPK in to your DevOps Toolchain",
   "sesnum":  "3610",
   "templates" : {
       "default" : "cu.tpl",
@@ -38,6 +38,10 @@
 		"content/configmgmt/erpfirewall.md",
 		"content/configmgmt/automic.md",
 		"content/configmgmt/2.md",
+
+		"content/cicd/1.md",
+
+		"content/artifacts/1.md",
 
 		"content/orchestration/1.md",
 		"content/orchestration/rolling_restart.md",
