@@ -1,5 +1,5 @@
 {
-  "name": "PeopleSoft Deployment Automation using DPK, Puppet and Ansible",
+  "name": "PeopleSoft Deployment Automation, Integrate DPK in to your DevOps Toolchain",
   "description": "HEUG",
   "validators": {
     "puppet": "puppet parser validate",
