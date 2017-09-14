@@ -1,5 +1,5 @@
 {
-  "name": "PeopleSoft Deployment Automation, Integrate DPK in to your DevOps Toolchain",
+  "name": "PeopleSoft Deployment Automation, Tooling to extend the DPK model and enable DevOps practices",
   "description": "HEUG",
   "validators": {
     "puppet": "puppet parser validate",
@@ -13,7 +13,7 @@
   "authemail": "eric.bolinger@cu.edu",
   "organization": "University of Colorado",
   "title": "PeopleSoft Deployment Automation",
-  "tagline": "Integrate DPK in to your DevOps Toolchain",
+  "tagline": "Tooling to extend the DPK model and enable DevOps practices",
   "sesnum":  "3610",
   "templates" : {
       "default" : "cu.tpl",
