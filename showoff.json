@@ -14,7 +14,7 @@
   "organization": "University of Colorado",
   "title": "PeopleSoft Deployment Automation",
   "tagline": "Tooling to extend the DPK model and enable DevOps practices",
-  "sesnum":  "3610",
+  "sesnum":  "",
   "templates" : {
       "default" : "cu.tpl",
       "special" : "simple.tpl"
