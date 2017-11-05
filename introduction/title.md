@@ -6,3 +6,7 @@
     ~~~CONFIG:author~~~
     ~~~CONFIG:authtitle~~~
     ~~~CONFIG:organization~~~
+
+    ~~~CONFIG:authemail~~~
+    ~~~CONFIG:authlinkedin~~~
+    ~~~CONFIG:authgithub~~~
